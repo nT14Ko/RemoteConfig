@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771987762715",
+    "project_id": "remoteconfig-a2a26",
+    "storage_bucket": "remoteconfig-a2a26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771987762715:android:c7768ea76f20aa3cb092be",
+        "android_client_info": {
+          "package_name": "com.knoweverything.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771987762715-l4gve9sv4ij09q2sk17553mrm13n4i41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLX_NwPhkj34mVRpMrd1nRS-s-oGFAoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771987762715-l4gve9sv4ij09q2sk17553mrm13n4i41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
